@@ -1,7 +1,7 @@
 ROBIN DR400-140B (GPL) FOR X-PLANE
 ==================================
 By Cédric Dufour <cedric.dufour@ced-network.net>
-(see the licencing section below for licencing details)
+(see the licensing section below for licensing details)
 
   ![DR400-140B](dr400_icon.png)
 
@@ -81,23 +81,23 @@ FLYING HOWTO
 
 ### Landing and engine shut-down
 
-#### Downwind:
+#### Downwind
 
  * Speed in "white sector"
  * Flaps 15° down
  * Speed 80 knots (IAS)
 
-#### Final:
+#### Final
 
  * Flaps 60° down
  * Speed 70 knots + half of head-wind (IAS)
 
-#### Runway:
+#### Runway threshold
 
  * Throttle 0%
  * Flare and land
 
-#### Engine shut-down:
+#### Engine shut-down
 
  * Mixture "off" (full lean) [lower center red handle]
  * Magnetos "off" [lower left corner]
