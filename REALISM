@@ -145,7 +145,7 @@ DR400-140B
 
 * Landing: Abeam Threshold
   S: 1500RPM
-  O: Speed decreases ~5kt each 2 seconds
+  O: Speed decreases ~5kt each 1 second
 
 * Landing: Abeam Threshold (cont'd)
   S: Speed white sector (~90kt)
